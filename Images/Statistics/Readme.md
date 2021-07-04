@@ -1,1 +1,1 @@
-Contains the images used for Statistics
+Contains the images used for Statistics 
